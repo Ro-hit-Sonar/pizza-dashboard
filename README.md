@@ -1,6 +1,6 @@
-🍕 Pizza Dashboard - Project Overview
+ # 🍕 Pizza Dashboard
 
-Name : Rohit Kumar 
+**Your Name**: Rohit Kumar
 
 ## Project Overview
 
